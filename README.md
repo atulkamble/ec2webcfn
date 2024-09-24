@@ -1,4 +1,4 @@
-# webserver using cfn init and cfn signal
+# Deploying a Web Server using AWS CloudFormation, cfn-init, and cfn-signal
 
 1. Create keypair key.pem from AWS Console
 
